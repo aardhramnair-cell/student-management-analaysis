@@ -1,0 +1,15 @@
+
+public class StudentRegistration {
+
+    public static void main(String[] args) {
+
+        int studentId = 101;
+        String studentName = "Rahul";
+        int age = 21;
+
+        System.out.println("Student Details");
+        System.out.println("ID: " + studentId);
+        System.out.println("Name: " + studentName);
+        System.out.println("Age: " + age);
+    }
+}
